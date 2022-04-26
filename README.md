@@ -50,7 +50,7 @@ setContentView(R.layout.activity_main);
 </androidx.constraintlayout.widget.ConstraintLayout>
 ```
 ### Output
-![Screenshot (264)](https://user-images.githubusercontent.com/75236145/165342180-f9c57f40-cb44-4241-b14c-b7969a3a73b5.png)
+![Screenshot 2022-04-26 225443](https://user-images.githubusercontent.com/75235601/165359217-48a5657e-3c71-4d6e-80b9-43e61ef7384d.jpg)
 
 ### Result
 Thus a Simple Android Application Create and to display the welcome message and text to be displayed in Red color with center alignment.
